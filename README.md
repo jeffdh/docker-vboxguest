@@ -1,2 +1,4 @@
-# docker-vboxservice
-Docker container with the VBoxGuestAdditions for running in boot2docker
+# VBoxGuestAdditions containerized
+
+Creates a simple docker container with VBoxGuestAdditions.  Originally created
+to use in boot2docker for time synchronization on wakeup.
